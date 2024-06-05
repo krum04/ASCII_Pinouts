@@ -18,8 +18,6 @@ To view the pinouts, simply click on the links above to open the respective text
 ### Attiny85
 
 ```
-Attiny 85 
-
 +------+------------------+------------------+------+
 | Pin# | Name             | Name             | Pin# |
 +------+------------------+------------------+------+
@@ -28,7 +26,6 @@ Attiny 85
 |  3   | PB4 (ADC2)       | PB1 (PWM)        |  6   |
 |  4   | GND              | PB0 (PWM)        |  5   |
 +------+------------------+------------------+------+
-
 ```
 
 
